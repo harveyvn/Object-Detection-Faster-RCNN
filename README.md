@@ -30,4 +30,4 @@ image_with_boxes = draw_boxes(
 # display the image
 display_image(image_with_boxes)
 ```
-![image](https://user-images.githubusercontent.com/3027146/144760327-461875d7-8472-4de2-9681-823485d54689.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/3027146/144760327-461875d7-8472-4de2-9681-823485d54689.png" width="800"></p>
